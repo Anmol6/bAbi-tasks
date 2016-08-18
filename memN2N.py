@@ -61,15 +61,9 @@ class memN2N(object):
         m = tf.reduce_sum(m0*self._pos_encoding, 2) + self.T_A
         q_emb = tf.reduce_sum(q0*self._pos_encoding,1)
 
-
-
-
-
-        m = tf.dot.
-
+      
 
 
 
 
 
-    def 
